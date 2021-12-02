@@ -1,0 +1,21 @@
+body{
+    background-color: #B1740F;
+    width: 100%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+
+}
+h1{
+    font-size: 4.5em;
+}
+.h1{
+    font-size: 3em;
+
+}
+.nav1 a{
+    font-size: 3em;
+    text-decoration: none;
+
+}

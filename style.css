@@ -52,7 +52,13 @@ h1{
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19);
  
 }
-.shop a{
+.theend {
+    padding: 20px 44px;
+    margin: 300px;
+
+}
+ a{
+    
     color: #313638;
     text-decoration: none;
     font-family: 'Courier New';
